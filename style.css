@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(102, 79, 125);
+  font-family: ubuntu;
+  text-align: center;
+}
+
+h1 {
+  background-color: rgb(100, 150, 255);
+  color: rgb(255, 255, 255);
+  font-size: 40px;
+  padding: 20px;
+}
+
+p {
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+}
+
+#alttext {
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+}
